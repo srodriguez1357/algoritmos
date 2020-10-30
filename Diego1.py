@@ -1,0 +1,5 @@
+Nombre=input("¿como te llamas?")
+vivo=input("¿Donde vives?")
+años=input("¿Cuantos anios tienes?")
+comida=input("¿Cual es tu comida favorita?")
+print("Esta persona se llama",Nombre,"vive en",vivo,"tiene ",años,"su comida favorita es" ,comida)
